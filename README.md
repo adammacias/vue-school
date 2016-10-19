@@ -1,6 +1,19 @@
 # vue-school
 
-Escolinha do professor Vuejafares
+Escolinha do professor Vuejafares! :trollface: 
 
-- CRUD de Aluno (Nome + Rota Custom)
-- CRUD de Sala (Listar os alunos com a n1 n2 e média do aluno e a da turma + Rota Custom) 
+**Objetivo:** projeto de estudo da ferramenta [Vue.js][vuejs] :) 
+
+**Tema:** Vue School. 
+
+**Descrição:** Aplicação Vue.js com módulos de disciplinas e alunos. Por enquanto só.
+
+## Roteiro 
+
+- [ ] 1. Criar projeto
+- [ ] 2. Adicionar o Bootstrap
+- [ ] 3. Criar componentes
+- [ ] 4. Implementar componentes na Aplicação
+- [ ] 5. Refatorar componentes PAGE, DISCIPLINA e ALUNO
+
+[vuejs]: https://vuejs.org/
