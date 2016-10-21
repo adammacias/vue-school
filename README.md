@@ -1,19 +1,18 @@
 # vue-school
 
-Escolinha do professor Vuejafares! :trollface: 
+> Escolinha do professor Vuejafaris.
 
-**Objetivo:** projeto de estudo da ferramenta [Vue.js][vuejs] :) 
+## Build Setup
 
-**Tema:** Vue School. 
+``` bash
+# install dependencies
+npm install
 
-**Descrição:** Aplicação Vue.js com módulos de disciplinas e alunos. Por enquanto só.
+# serve with hot reload at localhost:8080
+npm run dev
 
-## Roteiro 
+# build for production with minification
+npm run build
+```
 
-- [ ] 1. Criar projeto
-- [ ] 2. Adicionar o Bootstrap
-- [ ] 3. Criar componentes
-- [ ] 4. Implementar componentes na Aplicação
-- [ ] 5. Refatorar componentes PAGE, DISCIPLINA e ALUNO
-
-[vuejs]: https://vuejs.org/
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
